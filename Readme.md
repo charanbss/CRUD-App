@@ -8,6 +8,8 @@ This is a basic CRUD (Create, Read, Update, Delete) app made using NodeJS applic
 
 This app is very scalable and can be connected to a frontend for full functionality.
 
+<br />
+
 ### Packages to be installed:
 **express**          <br />     - npm i express
 <br />
