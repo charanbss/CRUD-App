@@ -1,11 +1,19 @@
 ## CRUD App
 
 ### Packages to be installed:
-**express**         - npm i express
+**express**
+<br />     
+- npm i express
 <br />
-**mongoose**        - npm i mongoose
+**mongoose**     
+<br />   
+- npm i mongoose
 <br />
-**nodemon**         - npm i nodemon
+**nodemon**      
+<br />   
+- npm i nodemon
 <br />
-**email-validator** - npm i email-validator
+**email-validator**
+<br /> 
+- npm i email-validator
 <br />
