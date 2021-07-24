@@ -19,3 +19,5 @@ This app is very scalable and can be connected to a frontend for full functional
 <br />
 **email-validator**  <br />     - npm i email-validator
 <br />
+
+Summer School 2021, CFI.
